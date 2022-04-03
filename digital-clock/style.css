@@ -1,0 +1,20 @@
+body {
+    background-image: url(bg2.png);
+}
+div {
+    box-shadow: rgb(255, 255, 255);
+    margin-top: 40vh;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 100px;
+    text-shadow:
+    0 0 5px #fff, 
+    0 0 10px #fff,
+    0 0 15px #0073e6, 
+    0 0 20px #0073e6, 
+    0 0 25px #0073e6, 
+    0 0 30px #0073e6, 
+    0 0 35px #0073e6;
+}
